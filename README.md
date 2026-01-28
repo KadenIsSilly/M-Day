@@ -1,5 +1,4 @@
 # Advanced Warfare: Exo Zombies - No Mutated Zombies Mod
-[![wakatime](https://wakatime.com/badge/user/7af83968-c73f-46b5-a532-428b22b85aa4/project/f2b26c90-7471-43c2-ab01-cf037f3d5539.svg)](https://wakatime.com/badge/user/7af83968-c73f-46b5-a532-428b22b85aa4/project/f2b26c90-7471-43c2-ab01-cf037f3d5539)
 
 **Features**
 - Removes the respective mutated zombie.
