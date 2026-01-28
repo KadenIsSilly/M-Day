@@ -1,4 +1,4 @@
-# Advanced Warfare: Exo Zombies - No Mutated Zombies Mod
+## Advanced Warfare: Exo Zombies - No Mutated Zombies Mod
 
 **Features**
 - Removes the respective mutated zombie.
