@@ -1,5 +1,7 @@
 ## Advanced Warfare: Exo Zombies - No Mutated Zombies Mod
 
+### Currently not working in the latest Advanced Warfare update :(
+
 **Features**
 - Removes the respective mutated zombie.
 - Doesn't mess with any regular zombie spawns.
